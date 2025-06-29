@@ -65,7 +65,8 @@
 .projects {
     padding: 60px 20px;
     text-align: center;
-    background: linear-gradient(135deg, #5f9ea0, #ff06de);
+    color: #cceeff;
+    background: linear-gradient(45deg, #a8d8d3, #ff99ec);
     border-radius: 15px;
     box-shadow: 0 10px 20px #00000026;
     margin: 20px 0;
